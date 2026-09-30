@@ -1,1 +1,1 @@
-Git is a disturbuted version control system that tracks in source code
+It allows tracking of the source code by different collorations

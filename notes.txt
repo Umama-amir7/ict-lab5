@@ -1,1 +1,2 @@
 It allows tracking of the source code by different collorations
+GitHub allows developers to collaborate using repositories, branches,and pull requests.
